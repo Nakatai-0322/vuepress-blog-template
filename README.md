@@ -29,4 +29,4 @@ These codes are licensed under CC0.
 
 [![wakatime](https://wakatime.com/badge/user/c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1/project/0ddcd41a-6c70-4742-841c-c9bae867570a.svg)](https://wakatime.com/badge/user/c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1/project/0ddcd41a-6c70-4742-841c-c9bae867570a)
 
-[![GitHub stars](https://img.shields.io/github/stars/Nakatai-0322/vuepress-blog-template.svg?style=social)](
+![GitHub stars](https://img.shields.io/github/stars/Nakatai-0322/vuepress-blog-template.svg?style=social)
