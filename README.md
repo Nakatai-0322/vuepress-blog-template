@@ -2,7 +2,7 @@
 
 ## 使用方法
 
-基本的に殆どのファイルを編集することになります。
+基本的にほとんどのファイルを編集することになります。
 
 良い例が，`src\.vuepress\config.js`です。
 
@@ -23,4 +23,4 @@
 
 These codes are licensed under CC0.
 
-[![CC0]([http://i.creativecommons.org/p/zero/1.0/88x31.png "CC0"](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg))](http://creativecommons.org/publicdomain/zero/1.0/deed.ja)
+[![CC0]([http://i.creativecommons.org/p/zero/1.0/88x31.png "CC0"](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg))](<http://creativecommons.org/publicdomain/zero/1.0/deed.ja>)
