@@ -10,7 +10,10 @@
 
 記事を書く場所は，`src\.vuepress\_posts\yyyy\mm-dd-[一意の番号].md`です。
 
-テーマは，"meteorlxy"
+使用テーマは，["meteorlxy"](https://github.com/meteorlxy/vuepress-theme-meteorlxy)です。
+
+ドキュメントは，[こちら](https://vuepress-theme-meteorlxy.meteorlxy.cn/)です。
+
 
 ## 使用プラグイン
 
