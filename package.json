@@ -1,0 +1,25 @@
+{
+  "name": "blog-template-vuepress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev src",
+    "build": "vuepress build src",
+    "eject": "vuepress eject src"
+  },
+  "author": "",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.8.2",
+    "vuepress": "^1.8.2",
+    "vuepress-plugin-disqus": "^0.2.0",
+    "vuepress-plugin-google-adsense": "^0.2.1",
+    "vuepress-plugin-rss": "^2.0.0"
+  },
+  "dependencies": {
+    "vuepress-plugin-sitemap": "^2.3.1",
+    "vuepress-theme-meteorlxy": "^1.9.0"
+  }
+}
