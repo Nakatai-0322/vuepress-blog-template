@@ -24,3 +24,9 @@
 These codes are licensed under CC0.
 
 [![CC0](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+## About This Repo
+
+[![wakatime](https://wakatime.com/badge/user/c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1/project/0ddcd41a-6c70-4742-841c-c9bae867570a.svg)](https://wakatime.com/badge/user/c9fbbcad-1b0d-4a00-b147-a687ce2b2ea1/project/0ddcd41a-6c70-4742-841c-c9bae867570a)
+
+[![GitHub stars](https://img.shields.io/github/stars/Nakatai-0322/vuepress-blog-template.svg?style=social)](
